@@ -7,5 +7,5 @@
               LinkedIn: https://www.linkedin.com/in/aditi-dwivedi-2a508a193/
               Email: aditi.dwd16@gmail.com
 
-- ⚡ I look forward to every new day of learning...
+-  I look forward to every new day of learning...
 
