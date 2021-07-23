@@ -10,4 +10,4 @@
 
 -  I look forward to every new day of learning...
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwdaditi" />
+
